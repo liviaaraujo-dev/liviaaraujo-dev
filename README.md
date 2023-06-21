@@ -1,6 +1,13 @@
 # Olá sou Lívia!
 
-### Apaixonada por tecnolgia, desenvolvimento web e mobile
+Sou completamente apaixonada por tecnologia, estou disposta a sempre enfrentar novos desafios e adquirir novos conhecimentos.
+
+Experiência em desenvolvimento web com as tecnologias: 
+HTML, CSS, Javascript, TypeScript, React JS.
+
+Experiência em desenvolvimento mobile:
+React Native, Dart e Flutter.
+
 
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaaraujo-dev&theme=dracula&layout=compact"/>
