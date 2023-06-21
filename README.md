@@ -3,7 +3,6 @@
 ### Apaixonada por tecnolgia, desenvolvimento web e mobile
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liviaaraujo-dev&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaaraujo-dev&theme=dracula&layout=compact"/>
 </div>
 
