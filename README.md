@@ -3,10 +3,13 @@
 Sou completamente apaixonada por tecnologia, estou disposta a sempre enfrentar novos desafios e adquirir novos conhecimentos.
 
 Experiência em desenvolvimento web com as tecnologias: 
-HTML, CSS, Javascript, TypeScript, React JS.
+HTML, CSS, Javascript, TypeScript, React JS, PHP, Laravel, Node JS, Next JS, Tailwind CSS.
 
 Experiência em desenvolvimento mobile:
 React Native, Dart e Flutter.
+
+Outras tecnologias:
+SQL, Git, Mysql, Docker.  
 
 
 <div> 
