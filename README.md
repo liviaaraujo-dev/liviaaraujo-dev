@@ -9,7 +9,7 @@ Experiência em desenvolvimento mobile:
 React Native, Dart e Flutter.
 
 Outras tecnologias:
-SQL, Git, Mysql, Docker.  
+SQL, Git, Mysql, Docker, Linux.  
 
 
 <div> 
