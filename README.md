@@ -37,7 +37,7 @@ SQL, Git, Mysql, Docker, Linux.
 <br><br>
 
 <div>
-  <a href="https://www.liviaaraujo.com/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flocal-na-rede-internet_5339181&psig=AOvVaw3WZWsl7v4ps2ao2uQ0vLyn&ust=1735592760086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDe14TxzYoDFQAAAAAdAAAAABAE" /></a>
+  <a href="https://www.liviaaraujo.com/">Site: liviaaraujo.com</a>
 </div>
 
 <div>
