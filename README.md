@@ -34,11 +34,14 @@ SQL, Git, Mysql, Docker, Linux.
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-<br><br>
+<br>
 
 <div>
-  <a href="https://www.liviaaraujo.com/">Site: liviaaraujo.com</a>
+  <strong>Meu Site:</strong>
+  <a href="https://www.liviaaraujo.com/">liviaaraujo.com</a>
 </div>
+
+<br>
 
 <div>
   <a href="https://instagram.com/liviaaraujo._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
