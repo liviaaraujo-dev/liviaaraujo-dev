@@ -38,7 +38,7 @@ SQL, Git, Mysql, Docker, Linux.
 
 <div>
   <strong>Meu Site:</strong>
-  <a href="https://www.liviaaraujo.com/">liviaaraujo.com</a>
+  <a href="https://www.liviaaraujo.com/" target="_blank">liviaaraujo.com</a>
 </div>
 
 <br>
